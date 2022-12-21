@@ -1,0 +1,1 @@
+python -m PyQt5.uic.pyuic -x autocorrelator_ui.ui -o autocorrelator_ui.py
